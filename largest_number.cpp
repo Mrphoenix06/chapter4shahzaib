@@ -13,5 +13,9 @@ else
 cout<<endl<<c<<"is Largest Number";
 else if(b>c)
 cout<<endl<<b<<"is Largest Number";
-getch();
+  
+else
+cout<<endl<<c<<"is Largest Number";
+return 0;
+
 }
